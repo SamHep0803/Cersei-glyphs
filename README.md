@@ -30,8 +30,8 @@
 
 ## How To Use
 ### This usage guide will only be useful if you plan on using these icons on ios 14!
-<br>
-I recommend using the [icon themer](https://routinehub.co/shortcut/6565/) shortcut that mostly eliminates the use of the shortcuts app for launching apps and therefore cuts out the shortcut app from opening and the annoying animation. The Icon themer will guide you what to do, use the default settings if you are inexperience and/or do not know what they do. 
+<br></br>
+I recommend using the icon [themer](https://routinehub.co/shortcut/6565/) shortcut that mostly eliminates the use of the shortcuts app for launching apps and therefore cuts out the shortcut app from opening and the annoying animation. The Icon themer will guide you what to do, use the default settings if you are inexperience and/or do not know what they do. 
 
 
 ## Download
